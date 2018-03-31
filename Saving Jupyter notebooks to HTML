@@ -3,9 +3,12 @@ Saving Jupyter notebooks to HTML
 1) make sure all cells have been executed.
   (insert new cells to run functions if return values, graphs are needed as output)
 2) from notebook:
+  pull down File -> Make a Copy...
+  (creates new webpage in browser)
+2) from the new Copy of notebook in browser:
   pull down File -> Print Preview
   (creates new webpage in browser)
-3) from browser:
+3) from the new Print Preview page in browser:
   pull down File -> Save Page as -> "web page, complete"
 4) from finder:
   click to open html file and check that all code and graphic images are saved

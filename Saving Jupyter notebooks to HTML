@@ -1,0 +1,19 @@
+Saving Jupyter notebooks to HTML
+
+1) make sure all cells have been executed.
+  (insert new cells to run functions if return values, graphs are needed for output)
+2) from notebook:
+  pull down File -> Print Preview
+  (creates new webpage in browser)
+3) from browser:
+  save as "web page, complete"
+4) from finder:
+  click to open html file and check that graphic images are saved
+  
+  
+5) from notebook:
+  pull Download as -> Notebook(.ipynp)
+6) from notebook:
+  pull pull Download as -> Python(.py).
+7) from sublime:
+  open and save as script

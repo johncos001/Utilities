@@ -1,7 +1,7 @@
 Saving Jupyter notebooks to HTML
 
 1) make sure all cells have been executed.
-  (insert new cells to run functions if return values, graphs are needed for output)
+  (insert new cells to run functions if return values, graphs are needed as output)
 2) from notebook:
   pull down File -> Print Preview
   (creates new webpage in browser)
